@@ -1,6 +1,6 @@
-<!-- Banner personalizado -->
+<!-- Banner superior -->
 <div align="center">
-  <img src="https://i.imgur.com/7yZ8EwA.png" alt="Banner Alejandro Avila" width="100%" />
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="banner" width="100%" />
 </div>
 
 # 👋 ¡Hola! Soy **Alejandro Ávila**  
@@ -10,14 +10,13 @@
 ---
 
 ## 👨‍💻 Sobre mí  
-Soy un desarrollador con experiencia en la creación de **aplicaciones web modernas y escalables**, utilizando tecnologías **frontend** y **backend**.  
-Me interesa desarrollar proyectos que aporten valor real, optimicen procesos y mejoren la experiencia de los usuarios.  
+Soy un **desarrollador web full stack** con experiencia en la creación de aplicaciones dinámicas, escalables y seguras.  
+Me motiva aprender constantemente nuevas tecnologías y participar en proyectos que impacten de forma positiva en las personas y empresas.  
 
-🔹 Experiencia en desarrollo web con **HTML, CSS, JavaScript y PHP**.  
+🔹 Experiencia en **desarrollo frontend y backend**.  
 🔹 Conocimientos en **bases de datos relacionales** (MySQL).  
-🔹 Manejo de **frameworks modernos** como Laravel, React y Vue.js.  
-🔹 Experiencia trabajando con **Git y GitHub** para control de versiones.  
-🔹 Enfoque en **buenas prácticas**, seguridad y escalabilidad.  
+🔹 Trabajo con **frameworks modernos** para crear soluciones rápidas y optimizadas.  
+🔹 Apasionado por las **buenas prácticas, seguridad y arquitectura limpia**.  
 
 ---
 
@@ -48,20 +47,32 @@ Me interesa desarrollar proyectos que aporten valor real, optimicen procesos y m
 
 ---
 
-## 📌 Objetivos profesionales  
-✔️ Seguir creciendo como **Desarrollador Full Stack**.  
-✔️ Participar en proyectos colaborativos e innovadores.  
-✔️ Especializarme en **arquitectura de software** y **ciberseguridad**.  
-✔️ Construir soluciones que impacten positivamente en las personas y empresas.  
+## 📌 Proyectos Destacados  
+
+🔹 **Sistema de Gestión Web** – Plataforma con login/registro, panel de administración y base de datos MySQL.  
+🔹 **E-commerce** – Tienda online con carrito de compras y pasarela de pagos.  
+🔹 **Sistema de Tickets** – Aplicación para soporte técnico con asignación de estados y seguimiento.  
+🔹 **Landing Pages Profesionales** – Sitios optimizados para conversión con diseño moderno.  
+
+---
+
+## 🧩 Principios de Desarrollo  
+
+✔️ Código limpio y mantenible.  
+✔️ Seguridad y escalabilidad como prioridades.  
+✔️ Enfoque en la experiencia del usuario (UX/UI).  
+✔️ Trabajo en equipo con metodologías ágiles (Scrum/Kanban).  
+✔️ Integración continua y control de versiones.  
 
 ---
 
 ## 📫 Conecta conmigo  
 
-📧 **alejandroavila@example.com**  
-🌐 [LinkedIn](https://www.linkedin.com/)  
+📧 **alejandronegocios24@egmail.com**  
+🌐 [LinkedIn](https://www.linkedin.com/AlejandroAvila)  
 💼 Portafolio: *(pronto disponible)*  
 
 ---
 
-⭐️ *“El código limpio no solo funciona, también se entiende y se mantiene.”*  
+⭐️ *“El mejor código no solo funciona, también inspira confianza en quien lo usa y lo mantiene.”*  
+
