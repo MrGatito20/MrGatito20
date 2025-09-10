@@ -1,11 +1,23 @@
-<!-- Banner superior -->
+<!-- Banner personalizado -->
 <div align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="banner" width="100%" />
+  <img src="https://i.imgur.com/7yZ8EwA.png" alt="Banner Alejandro Avila" width="100%" />
 </div>
 
 # 👋 ¡Hola! Soy **Alejandro Ávila**  
 
-💻 **Desarrollador Web Full Stack** | 🚀 En constante aprendizaje | 🌍 Apasionado por crear soluciones digitales  
+💻 **Desarrollador Web Full Stack** | 🚀 Apasionado por la tecnología | 🌍 En constante aprendizaje  
+
+---
+
+## 👨‍💻 Sobre mí  
+Soy un desarrollador con experiencia en la creación de **aplicaciones web modernas y escalables**, utilizando tecnologías **frontend** y **backend**.  
+Me interesa desarrollar proyectos que aporten valor real, optimicen procesos y mejoren la experiencia de los usuarios.  
+
+🔹 Experiencia en desarrollo web con **HTML, CSS, JavaScript y PHP**.  
+🔹 Conocimientos en **bases de datos relacionales** (MySQL).  
+🔹 Manejo de **frameworks modernos** como Laravel, React y Vue.js.  
+🔹 Experiencia trabajando con **Git y GitHub** para control de versiones.  
+🔹 Enfoque en **buenas prácticas**, seguridad y escalabilidad.  
 
 ---
 
@@ -36,26 +48,20 @@
 
 ---
 
-## 📊 Mis estadísticas en GitHub  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandroavila&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroavila&layout=compact&theme=tokyonight)  
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=alejandroavila&theme=tokyonight)  
-
-</div>
+## 📌 Objetivos profesionales  
+✔️ Seguir creciendo como **Desarrollador Full Stack**.  
+✔️ Participar en proyectos colaborativos e innovadores.  
+✔️ Especializarme en **arquitectura de software** y **ciberseguridad**.  
+✔️ Construir soluciones que impacten positivamente en las personas y empresas.  
 
 ---
 
 ## 📫 Conecta conmigo  
 
-📧 **alejandronegocios24@gmail.com**  
-🌐 [LinkedIn](https://www.linkedin.com/AlejandroAvila)  
+📧 **alejandroavila@example.com**  
+🌐 [LinkedIn](https://www.linkedin.com/)  
 💼 Portafolio: *(pronto disponible)*  
 
 ---
 
-⭐️ *Siempre abierto a colaborar en proyectos innovadores y aprender nuevas tecnologías.* 🚀  
+⭐️ *“El código limpio no solo funciona, también se entiende y se mantiene.”*  
